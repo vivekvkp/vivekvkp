@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Vivek Kumar Pawar
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on Automation testing for Azure services (e.g Logic apps, function apps etc..)
